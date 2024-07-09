@@ -1,0 +1,31 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVufn5KSDzE4EGxQIAPEFQdQ==": "utter_happy",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVufn5KSDzE4l0SkZiQUElfmNiAVKZa5w=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVufn5KfGleRmJBQWVtbWxAN75UWc=": "utter_cheer_up",
+    "eJydjlEKgCAQRK/iATqBV4lYxJYUchVdgxDv3oL9G/0MM/B4zNr6olrKeIGx7CNp1UYBMgG1esfpCyMJWwtmYTzJZK2OjMh94qjMmGGg/wyTFyHGHSo5k9L97Yx1KFnTzLU9XiFuqQ==": "utter_did_that_help",
+    "eJytjlEKgCAQRK/iATqBV4lYRIcUahVbg5DunlD/RvQzzMDjMWM9B1VTxk7GSoisVb0LsVmh1TOWsAm4sWVDbkzgNkWrOQNydhxFBJlu9Juh82KN0VFhb1I63p2xHi1L+sPlgiPxRshj6QqnC1EGjek=": "action_listen",
+    "eJytj9EJwzAMRFfxAJ3Aq4QgRKzUglg2ilwoxrvXkP67tP0Rd/B4nJbWb64VpQfgZpzFu3YFEEzk3bscfBrJYOtJOhiWUc27uxJZnziqGSlc6HeGyYqUc4AqEUt5fjZmizRuLf9wBQ5gEQ0iHT8KJ3/ivrOm3tcXH2yoGw==": "utter_happy",
+    "eJytj0EKAyEMRa/iAXoCr1JKCGOmBsYomVgoMnevYLfFoe0m5MPn5eXajotrRekBuBhn8a6NBQQTefcOG+9G0rt1J+0dlh7Nu7sS2TFhVDNSGNXvCBOLlHOAKhFLeZ6TWSL1Wcs/WIEDWESDSNuPwMmfuK6s6ZzVuPcRcXsBe37Blg==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCU/Pqs0NT2/uLY2FgDUjx7i": "utter_saludo_juegos",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCU/Pqs0NT2/uJaAWaUlJalF8ahaCJkYCwDNWz6u": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCU/Pqs0NT2/uJaAWaUlJalF8ahaKDORgOtSUosLUlMyUxLhxsUCAM3FXPo=": "utter_goodbye",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCU/Pqs0NT2/uJaAWaUlJalF8ahaKDORgOtSUosLUlMyUxJJcmB6fn5KUmUqMcbFAgAr6XtW": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCU/Pqs0NT2/uJaAWaUlJalF8ahaKDORgOsKivKTclJzE4shxtXWxgIAcp5cqQ==": "utter_problemas_juego",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCU/Pqs0NT2/uJaAWaUlJalF8ahaKDORgOsKivKTclJzE4shxhHnPnRNhE2NBQAson4J": "utter_goodbye",
+    "eJytjlEKgCAQRK/iATqBV4kQqyUMdcVdg5DunlA/9aNQfzMw7zF9PjqRQ4RN6YkNeinyFZTXDqS4izXE4Ms2EcSyMb5UloK0TTOqNcGCdFRciRmieiLfjJV3IeJowWm6dG3/3tA/1gVxHndosA0nJFycFA==": "action_listen",
+    "eJytj1EKwyAQRK/iAXoCr1LCInGIQrKKWQNFvHsX7L+h7c8yA4/H7LP1h2m54CK3SkxsTRuB2B2w5lP2eApY2XqiKBNZq1izFUD6xFFFUGig3xkmK46UPFUOLufXvTFrgN6a/+Hy0ZMEJxSw/yic/OnBqlje0A2nVg==": "utter_goodbye",
+    "eJytj9EJwzAMRFfxAJ3Aq4Qg3PiIDYlsHLkQTHavIP0NDm1/hA6Op6ehHQ/TcsGL3CQxsTXtXIjdCms+YYmbgLVbNxTtRNYo1swFkKPDqCIodFa/I3Qs1pQ8VQ4u5/2ezBSgs+Z/sHz0JMEJBSw/Ajt/evBNp1mPPndcIcY3+fTA0w==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCU/Pqs0NT2/uJaAWaUlJalF8ahaKDORgOvyCzLzQPJgw2prYwG6Slvg": "utter_opinion_juego",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCU/Pqs0NT2/uJaAWaUlJalF8ahaKDORgOvyCzLzQPJgw4hzHaoWQibGAgA+e3uu": "utter_goodbye",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCU/Pqs0NT2/uJaAWaUlJalF8ahaKDORgOvyCzLzQPJgw4hzHaoWapiYnp+fklSZStCsWABL+Jjw": "action_listen",
+    "eJyljk0KgCAUhK/iATqBV4kQ0UcY+oz300a8e4JtWrVoNx/MfMza+mLaSXA5HyRVtKbN4NAXsOaBnFgAR1cZaHQSDhRr2GeN1R0Ke+X+4VIRIPee/DN+vCMItQBGT9PX+3YDzqVdBA==": "utter_recomendacion_juego",
+    "eJyljkEKgCAQRa/iATqBV4kQ0SEMG2Mc24h3zzCCVgrt5jP/Pf6cyyTyQXAqbdgFlCK3Q6HeQYoneBcZsHZTBKodhzWyFFH7ZIPaEqwhlo4rMQOpL/LP2FlHYMIOaDU139jAlzL3p4ED6uUCJDuAUQ==": "action_listen",
+    "eJyljkEKAyEMRa/iAXoCrzIUSZ1QLJoMSexG5u612Ba6cmB2+eS/x1/afnFtE3wGiJaYvGvjCAQFvfuEnNSQercqSu8k6tG8U8h15fCoeGfdJ65qhhL+kXPGyTrByAVpBRm+YwN/VHx/BnhaPVm6Cd8yFtCv7foCykWeTA==": "utter_problemas_juego",
+    "eJyljkEKAjEMRa/SA3iCXkWkxE6QSpsMSeqmzN2tVAZ0U2V2+eS/xz+37eTaKvgIEC0xedfGEQgKevcOOakh9W5VlN5J1KN5p5DrwuFe8ca6TVzVDCV8IseMk3WCkQvSAjJ8vw3cqfj6DPCwerJ0Fb5mLKD/DP2G5tbLE5JVv6w=": "action_listen",
+    "eJyljlEKQiEQRbfiAlrB20qETDqUoTMyahDi3jN8BPVj4d9c5t7DOdZ2UDUK3jWY7Jg2VcehCQJuag/epYzUuyWh9I6jHvOmEvhiWd8KXji1CavkjKI/J2vEiZ2g4YBkQQbvN8H3yrw+Y7iMnphG4bPHAOkf0e/RKnXiGJitLnSFGB+tnZ7v5dx8": "action_listen"
+  }
+}
